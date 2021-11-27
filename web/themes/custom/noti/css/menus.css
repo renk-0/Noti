@@ -1,0 +1,36 @@
+.menu {
+	display: flex;
+	flex-flow: row nowrap;
+}
+
+#block-menudecuentadeusuario .menu {
+	justify-content: flex-end;
+}
+
+#block-menudecuentadeusuario .item > a {
+	text-decoration: none;
+	color: inherit;
+}
+
+.item + .item {
+	margin-left: 1em;
+}
+
+.item {
+	transition: .1s all ease-in-out;
+	color: gray;
+}
+
+.item:hover {
+	color: blue;
+	text-decoration: underline;
+}
+
+#block-noti-admin {
+	background: wheat;
+	border-radius: 0 0 10px 10px;
+}
+
+#block-noti-admin .item {
+	padding: 10px;
+}

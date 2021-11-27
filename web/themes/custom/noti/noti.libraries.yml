@@ -3,5 +3,6 @@ wheat:
     theme:
       css/global.css: {}
       css/header.css: {}
+      css/menus.css: {}
   js:
     js/global.js: {}
