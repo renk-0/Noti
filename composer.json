@@ -20,7 +20,8 @@
         "drupal/core-project-message": "^9.2",
         "drupal/core-recommended": "^9.2",
         "drupal/devel": "^4.1",
-        "drupal/mediteran": "^1.26"
+        "drupal/mediteran": "^1.26",
+        "drupal/pathauto": "^1.8"
     },
     "conflict": {
         "drupal/drupal": "*"

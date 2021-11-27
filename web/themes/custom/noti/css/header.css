@@ -1,3 +1,8 @@
+header {
+	border-bottom: 1px solid gray;
+	margin: 0 2em; 
+}
+
 #brand {
 	max-height: 150px;
 	display: flex;
@@ -25,5 +30,5 @@
 
 #brand .slogan {
 	align-self: center;
-	color: gray;
+	color: darkslategray;
 }
