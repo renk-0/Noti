@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+body {
+	background: wheat;
+	margin: 0;
+	color: black;
+	font-family: 'Merriweather', serif;
+}

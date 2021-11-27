@@ -1,0 +1,29 @@
+#brand {
+	max-height: 150px;
+	display: flex;
+	flex-flow: column nowrap;
+}
+
+#brand .banner {
+	display: flex;
+	flex-flow: row nowrap;
+	align-items: center;
+	justify-content: center;
+}
+
+#brand .name {
+	text-decoration: none;
+	font-size: 2em;
+	color: black;
+	font-weight: bold;
+}
+
+#brand img.logo {
+	max-height: 80px;
+	padding: 10px;
+}
+
+#brand .slogan {
+	align-self: center;
+	color: gray;
+}

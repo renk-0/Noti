@@ -1,0 +1,7 @@
+wheat:
+  css:
+    theme:
+      css/global.css: {}
+      css/header.css: {}
+  js:
+    js/global.js: {}
